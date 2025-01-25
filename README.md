@@ -35,3 +35,5 @@ TextCNN，我们的检测器利用基于 Transfomer 的 PLM 能更好地捕获�
 严谨性的词汇，这些可以作为二者区分的指示词。
 
 最后，根据前文的研究对 AIGC 提出了一些我们的见解。
+
+论文如下[aigc检测.pdf](https://github.com/user-attachments/files/18545543/aigc.pdf)
